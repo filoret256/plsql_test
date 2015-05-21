@@ -5,9 +5,9 @@ examples of SCD type2
 usage
 
 1. get test.pck
-1. commit package
-2. to run:
- begin
-  test.run_test;
- end;
+2. commit package
+3. to run:
+begin
+ test.run_test;
+end;
 
